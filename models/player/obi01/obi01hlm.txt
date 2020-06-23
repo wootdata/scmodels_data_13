@@ -1,0 +1,11 @@
+This model was created by Obi-Wan   --  obihb@yahoo.com
+
+This is my first model for Half-Life so there are bound to be some bugs here and there. It does work pretty good though.
+
+Installation:
+-------------
+Just unzip this zip file into your C:/Half-Life directory and run the game. 
+
+If you have trouble just make shure the OBI01.MDL and OBI01.BMP files are in the Half-Life/Valve/Models/Player/Obi01 directory and it should work.
+
+ENJOY!!!
