@@ -1,1 +1,147 @@
-{"seq_groups": 1, "hash": "d9fc9016bf5833aae8a0e2dfbdbadfa5", "tri_count": "1365"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "./reference",
+					"polys": 1365,
+					"verts": 754
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "d9fc9016bf5833aae8a0e2dfbdbadfa5",
+	"name": "C:\\Backup\\Bumper Car Models\\Models\\barney\\barney.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "seq-name"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint35",
+			"parent": -1
+		}, 
+		{
+			"name": "joint36",
+			"parent": 0
+		}, 
+		{
+			"name": "joint37",
+			"parent": 1
+		}, 
+		{
+			"name": "joint38",
+			"parent": 2
+		}, 
+		{
+			"name": "joint39",
+			"parent": 3
+		}, 
+		{
+			"name": "joint40",
+			"parent": 4
+		}, 
+		{
+			"name": "joint41",
+			"parent": 5
+		}, 
+		{
+			"name": "joint42",
+			"parent": 6
+		}, 
+		{
+			"name": "joint43",
+			"parent": 7
+		}, 
+		{
+			"name": "joint44",
+			"parent": 8
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 112,
+			"name": "trk2_side.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 112,
+			"name": "trk2_side_miror.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 96,
+			"name": "trk2_front.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "trk2_hood.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 96,
+			"name": "trk2_roof.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 112,
+			"name": "trk2_back.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "seats.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "Clouds.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Leather.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "DM_Base.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "face.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "Helmet_Chrome.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}
