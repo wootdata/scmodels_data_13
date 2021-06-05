@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 14,
+			"bone": 22,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
+			"bone": 22,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 10,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}
@@ -25,17 +20,53 @@
 		{
 			"models": [
 				{
-					"name": "satamaza_ref",
-					"polys": 1738,
-					"verts": 890
+					"name": "hgrunt_HECU_Body",
+					"polys": 3134,
+					"verts": 1669
 				}
 			],
-			"name": "studio"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hgrunt_HECU_Commander_HL",
+					"polys": 1528,
+					"verts": 812
+				}
+			],
+			"name": "heads"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hgrunt_HECU_Gloves",
+					"polys": 1140,
+					"verts": 580
+				}
+			],
+			"name": "body"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 2,
+			"bone": 21,
+			"end": 17.500000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}, 
+		{
+			"bone": 19,
+			"end": 15.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -15.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -43,7 +74,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 3,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -51,7 +82,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 4,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -59,7 +90,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 5,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -301,8 +332,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e94daf0d0cddfe79522b6a1c0ddb084b",
-	"name": "krotchy.mdl",
+	"md5": "2b23bc44a7770e343b817a7d3590eab9",
+	"name": "bm_hgrunt_commander3.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1261,7 +1292,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1088704,
+	"size": 1714284,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1272,68 +1303,16 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 13
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 15
+			"parent": 2
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 16
+			"parent": 3
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1341,11 +1320,75 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 18
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "E_lids",
 			"parent": 19
+		}, 
+		{
+			"name": "Mouth",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 17
 		}
 	],
 	"skins": 1,
@@ -1354,7 +1397,31 @@
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "Krotchy.bmp",
+			"name": "Body.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Skin2.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Eye_White.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "Boina.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "Gloves.bmp",
 			"width": 512
 		}
 	],

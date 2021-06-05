@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 14,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 10,
+			"bone": 11,
 			"name": "",
 			"type": 0
 		}
@@ -25,12 +25,22 @@
 		{
 			"models": [
 				{
-					"name": "satamaza_ref",
-					"polys": 1738,
-					"verts": 890
+					"name": "soldier",
+					"polys": 572,
+					"verts": 300
 				}
 			],
-			"name": "studio"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "op",
+					"polys": 96,
+					"verts": 70
+				}
+			],
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -146,30 +156,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +311,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e94daf0d0cddfe79522b6a1c0ddb084b",
-	"name": "krotchy.mdl",
+	"md5": "73a1147b4c5f6b300cd763fc5ff9c465",
+	"name": "soldier.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,54 +1224,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 1088704,
+	"size": 829460,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1292,20 +1257,40 @@
 			"parent": 5
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 L Arm2",
 			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1313,15 +1298,31 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 11
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 12
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 13
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 L Leg",
@@ -1329,11 +1330,11 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 15
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 16
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1341,11 +1342,11 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 18
+			"parent": 27
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 19
+			"parent": 28
 		}
 	],
 	"skins": 1,
@@ -1353,9 +1354,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "Krotchy.bmp",
-			"width": 512
+			"height": 128,
+			"name": "dm_base.bmp",
+			"width": 124
+		}, 
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "rocketlauncher_flat.bmp",
+			"width": 64
 		}
 	],
 	"version": 10

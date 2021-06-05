@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 14,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 10,
+			"bone": 11,
 			"name": "",
 			"type": 0
 		}
@@ -25,12 +25,132 @@
 		{
 			"models": [
 				{
-					"name": "satamaza_ref",
-					"polys": 1738,
-					"verts": 890
+					"name": "KZ_MikuTDA_v1_3",
+					"polys": 2298,
+					"verts": 1204
 				}
 			],
-			"name": "studio"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_1",
+					"polys": 3432,
+					"verts": 1794
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_2",
+					"polys": 1706,
+					"verts": 896
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_4",
+					"polys": 2134,
+					"verts": 730
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_5",
+					"polys": 112,
+					"verts": 84
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_6",
+					"polys": 3247,
+					"verts": 1714
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_7",
+					"polys": 1128,
+					"verts": 655
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_8",
+					"polys": 2508,
+					"verts": 1330
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_9",
+					"polys": 1602,
+					"verts": 1074
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_10",
+					"polys": 1676,
+					"verts": 934
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_11",
+					"polys": 310,
+					"verts": 338
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_12",
+					"polys": 1774,
+					"verts": 983
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "KZ_MikuTDA_v1_13",
+					"polys": 2278,
+					"verts": 1178
+				}
+			],
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -301,23 +421,23 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e94daf0d0cddfe79522b6a1c0ddb084b",
-	"name": "krotchy.mdl",
+	"md5": "b5cfdc092d7d4b650f23542ad0522fb5",
+	"name": "KZ_MikuTDA_v1.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
-			"fps": 14.000000,
-			"frames": 31,
+			"fps": 0.000000,
+			"frames": 1,
 			"name": "look_idle"
 		}, 
 		{
-			"fps": 14.000000,
-			"frames": 31,
+			"fps": 0.000000,
+			"frames": 1,
 			"name": "idle"
 		}, 
 		{
-			"fps": 12.000000,
-			"frames": 31,
+			"fps": 0.000000,
+			"frames": 1,
 			"name": "deep_idle"
 		}, 
 		{
@@ -1261,7 +1381,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1088704,
+	"size": 3262344,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1292,20 +1412,48 @@
 			"parent": 5
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 L Arm2",
 			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1313,39 +1461,63 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 11
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 12
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 13
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 16
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
+			"name": "Bip01 L Leg1",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 30
+		}, 
+		{
 			"name": "Bip01 R Leg1",
-			"parent": 18
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 19
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1354,7 +1526,43 @@
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "Krotchy.bmp",
+			"name": "k_face_MikuAp.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "k_Hada.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "k_Asi2.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "hair_MikuAp.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "k_huku1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "k_huku2.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 68,
+			"height": 512,
+			"name": "{glow01.bmp",
 			"width": 512
 		}
 	],
