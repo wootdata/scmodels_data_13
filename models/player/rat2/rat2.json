@@ -1,0 +1,253 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "rat",
+					"polys": 224,
+					"verts": 118
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 2,
+			"frame": 0,
+			"options": "",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 0,
+			"options": "",
+			"sequence": 11,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 0,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "c9f35df30ac1f2506345ea25e11be283",
+	"name": "rat.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 38,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 38,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 21,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 20,
+			"name": "walk"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 20,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "angry"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "flinch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 35,
+			"name": "dieback"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 38,
+			"name": "180_left"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 38,
+			"name": "180_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "jump_variation1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "jump_variation2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "yaw_adjustment"
+		}
+	],
+	"size": 70740,
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Leg2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Leg2",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 Tail",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Tail1",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 Tail2",
+			"parent": 29
+		}
+	],
+	"skins": 1,
+	"t_model": true,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 46,
+			"name": "R_Side1.bmp",
+			"width": 140
+		}
+	],
+	"version": 10
+}
