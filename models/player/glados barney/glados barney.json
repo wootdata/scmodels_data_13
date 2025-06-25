@@ -572,7 +572,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "254aa3dd4f7b9721062f78121c025d50",
+	"md5": "fe3459b06d019cbf677cb143c168a75a",
 	"name": "Barney.mdl",
 	"seq_groups": "5",
 	"sequences": [
@@ -967,7 +967,7 @@
 			"name": "reload_mp5"
 		}
 	],
-	"size": 1863440,
+	"size": 1863424,
 	"skeleton": [
 		{
 			"name": "Bip01",
