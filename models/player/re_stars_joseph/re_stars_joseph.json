@@ -27,7 +27,7 @@
 				{
 					"name": "wesker",
 					"polys": 1468,
-					"verts": 613
+					"verts": 608
 				}
 			],
 			"name": "body"
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ea09b866def452452681ec205c79838d",
-	"name": "RE_STARS_Joseph.mdl",
+	"md5": "d698c21b2481b15d62dfcf1ec409c531",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\modeh<",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1243984,
+	"size": 1260648,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1314,25 +1314,25 @@
 			"flags": 0,
 			"height": 328,
 			"name": "arms.bmp",
-			"width": 500
+			"width": 504
 		}, 
 		{
 			"flags": 0,
-			"height": 502,
+			"height": 503,
 			"name": "legs.bmp",
-			"width": 380
+			"width": 384
 		}, 
 		{
 			"flags": 0,
 			"height": 244,
 			"name": "head.bmp",
-			"width": 412
+			"width": 416
 		}, 
 		{
 			"flags": 0,
-			"height": 30,
+			"height": 103,
 			"name": "face_bandana.bmp",
-			"width": 36
+			"width": 132
 		}
 	],
 	"version": 10
