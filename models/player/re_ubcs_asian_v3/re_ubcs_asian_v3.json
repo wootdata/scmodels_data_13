@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "wesker",
-					"polys": 997,
-					"verts": 528
+					"name": "re_ubcs_asian_terror",
+					"polys": 1717,
+					"verts": 1192
 				}
 			],
 			"name": "body"
@@ -146,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "30f6e1074c49c5105a5d36c4de71b212",
-	"name": "RE_STARS_Enrico.mdl",
+	"md5": "f0649149f649a0494219c7fa24940c5a",
+	"name": "re_ubcs_asian.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,9 +1214,59 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 1265464,
+	"size": 1438548,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,27 +1362,33 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 138,
-			"name": "martelface.bmp",
-			"width": 208
+			"height": 512,
+			"name": "terror_body.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 328,
-			"name": "arms.bmp",
-			"width": 500
+			"height": 73,
+			"name": "asian_militia_head.bmp",
+			"width": 56
 		}, 
 		{
 			"flags": 0,
-			"height": 501,
-			"name": "legs.bmp",
-			"width": 380
+			"height": 250,
+			"name": "militiahead1.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 244,
-			"name": "head.bmp",
-			"width": 412
+			"height": 505,
+			"name": "leet_body2.bmp",
+			"width": 504
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "chrome.bmp",
+			"width": 64
 		}
 	],
 	"version": 10
