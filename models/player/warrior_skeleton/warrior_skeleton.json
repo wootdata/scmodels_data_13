@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7eb13d0f390ddac3ae30c219e5885d49",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Warrior_Skeleton.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

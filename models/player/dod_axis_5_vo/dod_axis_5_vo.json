@@ -63,6 +63,7 @@
 			"name": "gear"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -438,7 +439,11 @@
 	],
 	"id": 1414743113,
 	"md5": "afdb01454a15460e88a66f052fe94170",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dod_Axis_5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

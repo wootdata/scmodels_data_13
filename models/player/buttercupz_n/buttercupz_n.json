@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ccfff470ab9c8dc6a91356ba7e0b1d6c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ButtercupZ_N.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

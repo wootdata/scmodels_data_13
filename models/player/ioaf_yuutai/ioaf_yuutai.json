@@ -83,6 +83,7 @@
 			"name": "SVEN_Team_Body5"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "711051d5e2a17bf413c8610ec271d82f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_yuutai.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

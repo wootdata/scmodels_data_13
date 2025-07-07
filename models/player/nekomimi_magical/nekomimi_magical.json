@@ -38,6 +38,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -294,7 +295,11 @@
 	],
 	"id": 1414743113,
 	"md5": "56ce910d5ff6399523a6141fb58566e2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimi_magical.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

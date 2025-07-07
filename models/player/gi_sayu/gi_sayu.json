@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -792,7 +793,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d6a51762eecdc8d700b21ea9ba072618",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Sayu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

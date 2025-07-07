@@ -43,6 +43,7 @@
 			"name": "body2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c5c1adf0d7a8a4c8d5d3b78723279e3b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SovArmy_ttsmkkpanam60s.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

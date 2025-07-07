@@ -48,6 +48,7 @@
 			"name": "dress"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -382,7 +383,11 @@
 	],
 	"id": 1414743113,
 	"md5": "86ace0bf544d9010eaf8ea5ae735a10f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Sekibanki.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

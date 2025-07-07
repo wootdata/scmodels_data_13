@@ -43,6 +43,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 4,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "75b5c8348cb538e9ffdbae1ef549f0c3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Lurker.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

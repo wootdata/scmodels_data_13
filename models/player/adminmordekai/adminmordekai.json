@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -401,7 +402,11 @@
 	],
 	"id": 1414743113,
 	"md5": "35ddf12f226e38f0f3927ecbc12b3054",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Beltar-iT\\Desktop\\Nueva carpeta (4)\\pyrosity.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

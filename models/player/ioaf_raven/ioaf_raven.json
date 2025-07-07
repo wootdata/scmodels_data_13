@@ -73,6 +73,7 @@
 			"name": "badge"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6a5aae3d0c1cd85492cda8a09101a694",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_raven.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

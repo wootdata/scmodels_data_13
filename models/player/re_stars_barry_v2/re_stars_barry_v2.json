@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "38ed52cb4abd53662cb544d6e83bf0f4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE_STARS_Barry.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

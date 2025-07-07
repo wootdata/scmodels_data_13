@@ -403,6 +403,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -1052,7 +1053,11 @@
 	],
 	"id": 1414743113,
 	"md5": "30016095468c3791be71fd083c1a2968",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SP_Nikke-Alice_Custom.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

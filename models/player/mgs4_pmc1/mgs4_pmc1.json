@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -403,7 +404,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c47f38d9841a7ed16adfd73a72bf5747",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "PMC1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

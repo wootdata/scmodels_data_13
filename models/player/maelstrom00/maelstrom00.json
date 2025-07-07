@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8ee8ee64e5f3b9aabf802c30a904c9d6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MaelsTroM00.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

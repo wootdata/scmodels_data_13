@@ -313,6 +313,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -920,7 +921,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1a7339fe7513a888a26509ad70d9ce91",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kz_rindo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

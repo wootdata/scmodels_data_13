@@ -63,6 +63,7 @@
 			"name": "GatiitoSC"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -396,7 +397,11 @@
 	],
 	"id": 1414743113,
 	"md5": "04f37667342cb02e179d439ba4828028",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "test.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

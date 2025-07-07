@@ -28,6 +28,7 @@
 			"name": "compiled by Morte"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3ca073fb8a6215a82c00f5a4010bcc73",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "klon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

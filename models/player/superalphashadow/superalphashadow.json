@@ -33,6 +33,7 @@
 			"name": "Shadow_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -279,7 +280,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c8b15bfc3bcf6284ed3ad87fa5879bda",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "superalphashadow.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

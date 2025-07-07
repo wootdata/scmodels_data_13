@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1675863345,
 	"events": [
@@ -452,7 +453,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e10a20863aa84986846e0e54039f238",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nato-sasdesert.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "unm_barney"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6d5b3c321f216e976e0f3a6dc62bc675",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "green2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

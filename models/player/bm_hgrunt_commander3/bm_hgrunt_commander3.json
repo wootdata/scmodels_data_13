@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -334,7 +335,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2b23bc44a7770e343b817a7d3590eab9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bm_hgrunt_commander3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

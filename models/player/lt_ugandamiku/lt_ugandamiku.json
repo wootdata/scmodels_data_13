@@ -133,6 +133,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -403,7 +404,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3a6a10c8d6e60b60c00224e744546185",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\USUARIO\\Documents\\Juegos\\MODEL creador\\PRUEBA 1\\LT_Uganp#$",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

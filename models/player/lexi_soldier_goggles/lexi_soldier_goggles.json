@@ -63,6 +63,7 @@
 			"name": "goggle"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "88ab0db4a81349caef729e9253753aa7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "lexi_soldier_goggles.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

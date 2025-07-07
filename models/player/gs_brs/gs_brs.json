@@ -93,6 +93,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cb2ee8a5e1d78ab446980b8161286be2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Brs.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

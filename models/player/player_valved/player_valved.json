@@ -38,6 +38,7 @@
 			"name": "valve"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "90dca589e609581c2bfb3f06dbf8872d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player_valved.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
