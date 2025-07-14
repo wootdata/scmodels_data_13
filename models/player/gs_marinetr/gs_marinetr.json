@@ -399,6 +399,7 @@
 	"md5": "04f37667342cb02e179d439ba4828028",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "test.mdl",
 	"preview": true,
 	"readme": false,

@@ -316,6 +316,7 @@
 	"md5": "7ca53436c68b1d413e9430027d6ef4ec",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "daemon-knight.mdl",
 	"preview": true,
 	"readme": false,
