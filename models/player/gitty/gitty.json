@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185457370,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "e3293fe7ad4b34f5d0441d0dbfc64bd8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "../converted.cjb.net/HL_NewModel.mdl",
 	"preview": true,
 	"readme": false,

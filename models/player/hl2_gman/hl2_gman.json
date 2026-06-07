@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1104218946,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -250,6 +250,7 @@
 	"md5": "252864b419a27e28102dfc1fe57dbb9e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "Gman.mdl",
 	"preview": true,
 	"readme": false,

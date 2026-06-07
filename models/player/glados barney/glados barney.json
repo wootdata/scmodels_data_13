@@ -118,6 +118,7 @@
 			"name": "gun"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -128,6 +129,7 @@
 			"type": 8
 		}
 	],
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2003,
@@ -573,7 +575,12 @@
 	],
 	"id": 1414743113,
 	"md5": "fe3459b06d019cbf677cb143c168a75a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "Barney.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "5",
 	"sequences": [
 		{

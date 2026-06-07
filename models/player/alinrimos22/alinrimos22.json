@@ -25,12 +25,32 @@
 		{
 			"models": [
 				{
-					"name": "MARIO_WAAHOO",
-					"polys": 3696,
-					"verts": 1919
+					"name": "AlinRimos22_Head",
+					"polys": 3001,
+					"verts": 1485
 				}
 			],
-			"name": "IM HAVING A STROKE"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "AlinRimos22_Torso",
+					"polys": 3117,
+					"verts": 1585
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "AlinRimos22_Legs",
+					"polys": 968,
+					"verts": 492
+				}
+			],
+			"name": "body"
 		}
 	],
 	"colorable": false,
@@ -66,32 +86,10 @@
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 16,
-			"end": -5.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 1
 		}
 	],
-	"date": 1780811528,
+	"date": 1775432070,
 	"events": [
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/jump.wav",
-			"sequence": 8,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/long_jump.wav",
-			"sequence": 9,
-			"type": 0
-		}, 
 		{
 			"event": 2001,
 			"frame": 9,
@@ -139,41 +137,6 @@
 			"frame": 22,
 			"options": "",
 			"sequence": 18,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/melee_attack.wav",
-			"sequence": 21,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/big_attack.wav",
-			"sequence": 27,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/big_attack.wav",
-			"sequence": 30,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/grenade.wav",
-			"sequence": 35,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/grenade.wav",
-			"sequence": 40,
 			"type": 0
 		}, 
 		{
@@ -357,28 +320,14 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/toad/death.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/toad/death2.wav",
-			"sequence": 184,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "b2eb9d7f51576e2695adada40701fda2",
+	"md5": "d7b3d9460a8574a913572ae1b58c50a7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "MP_Toad.mdl",
+	"name": "AlinRimos22\\AlinRimos22.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -1339,7 +1288,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1158176,
+	"size": 1286192,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1406,8 +1355,52 @@
 			"parent": 6
 		}, 
 		{
-			"name": "mouth",
-			"parent": 15
+			"name": "Bip01 L Finger0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 L Leg",
@@ -1415,11 +1408,11 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 17
+			"parent": 28
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 18
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1427,11 +1420,11 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 20
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 21
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1439,15 +1432,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "Toad_body.bmp",
+			"height": 256,
+			"name": "Acolours.bmp",
 			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "Toad_eye.bmp",
-			"width": 32
 		}
 	],
 	"version": 10

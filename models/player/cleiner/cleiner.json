@@ -73,7 +73,7 @@
 			"type": 8
 		}
 	],
-	"date": 1579695388,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -185,6 +185,7 @@
 	"md5": "6c90b92e8968ae67800fe0ffe07c9093",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "Cleiner.mdl",
 	"preview": true,
 	"readme": false,

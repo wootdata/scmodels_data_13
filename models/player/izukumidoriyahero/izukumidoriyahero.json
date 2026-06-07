@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 14,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 14,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 14,
+			"bone": 10,
 			"name": "",
 			"type": 0
 		}, 
 		{
 			"bone": 10,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 10,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}
@@ -25,12 +25,132 @@
 		{
 			"models": [
 				{
-					"name": "MARIO_WAAHOO",
-					"polys": 3696,
-					"verts": 1919
+					"name": "Deku1",
+					"polys": 1206,
+					"verts": 659
 				}
 			],
-			"name": "IM HAVING A STROKE"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku2",
+					"polys": 2823,
+					"verts": 1471
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku3",
+					"polys": 3118,
+					"verts": 1611
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku4",
+					"polys": 1935,
+					"verts": 1065
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku5",
+					"polys": 3166,
+					"verts": 1704
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku6",
+					"polys": 2680,
+					"verts": 1371
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku7",
+					"polys": 2680,
+					"verts": 1366
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku8",
+					"polys": 3734,
+					"verts": 2017
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku9",
+					"polys": 2880,
+					"verts": 1524
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku10",
+					"polys": 3922,
+					"verts": 2018
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku11",
+					"polys": 2220,
+					"verts": 1140
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku12",
+					"polys": 2212,
+					"verts": 1135
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Deku13",
+					"polys": 2722,
+					"verts": 1433
+				}
+			],
+			"name": "body"
 		}
 	],
 	"colorable": false,
@@ -66,32 +186,10 @@
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 16,
-			"end": -5.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 1
 		}
 	],
-	"date": 1780811528,
+	"date": 1773107771,
 	"events": [
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/jump.wav",
-			"sequence": 8,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/long_jump.wav",
-			"sequence": 9,
-			"type": 0
-		}, 
 		{
 			"event": 2001,
 			"frame": 9,
@@ -139,41 +237,6 @@
 			"frame": 22,
 			"options": "",
 			"sequence": 18,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/melee_attack.wav",
-			"sequence": 21,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/big_attack.wav",
-			"sequence": 27,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/big_attack.wav",
-			"sequence": 30,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/grenade.wav",
-			"sequence": 35,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/toad/grenade.wav",
-			"sequence": 40,
 			"type": 0
 		}, 
 		{
@@ -357,28 +420,14 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/toad/death.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/toad/death2.wav",
-			"sequence": 184,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "b2eb9d7f51576e2695adada40701fda2",
+	"md5": "7accb240abea793993d7fb639a8df353",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "MP_Toad.mdl",
+	"name": "IzukuMidoriyaHero.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -1339,7 +1388,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1158176,
+	"size": 2829196,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1370,56 +1419,40 @@
 			"parent": 5
 		}, 
 		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 11
+			"parent": 7
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 12
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 13
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Head",
 			"parent": 6
 		}, 
 		{
-			"name": "mouth",
-			"parent": 15
+			"name": "Bip01 L Arm",
+			"parent": 6
 		}, 
 		{
-			"name": "Bip01 L Leg",
-			"parent": 1
+			"name": "Bip01 L Arm1",
+			"parent": 12
 		}, 
 		{
-			"name": "Bip01 L Leg1",
-			"parent": 17
+			"name": "Bip01 L Arm2",
+			"parent": 13
 		}, 
 		{
-			"name": "Bip01 L Foot",
-			"parent": 18
+			"name": "Bip01 L Hand",
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1427,27 +1460,63 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 20
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 21
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 20
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 0,
+			"flags": 1,
 			"height": 512,
-			"name": "Toad_body.bmp",
+			"name": "T_Ch001_Default_00_mask_D.bmp",
 			"width": 512
 		}, 
 		{
-			"flags": 0,
-			"height": 64,
-			"name": "Toad_eye.bmp",
+			"flags": 1,
+			"height": 256,
+			"name": "T_Ch001_Default_00_eyeA_D.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 64,
+			"height": 32,
+			"name": "default.bmp",
 			"width": 32
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "T_Ch001_Default_00_hair_D.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "T_Ch001_Default_00_face_D.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "T_Ch001_Default_00_body_D.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

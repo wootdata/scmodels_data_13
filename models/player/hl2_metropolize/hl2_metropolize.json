@@ -83,7 +83,7 @@
 			"type": 8
 		}
 	],
-	"date": 1299107096,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -195,6 +195,7 @@
 	"md5": "f974502d829d442e5211c1233ce6f975",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "hl2_metropolize.mdl",
 	"preview": true,
 	"readme": false,
